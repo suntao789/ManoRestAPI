@@ -1,0 +1,31 @@
+{
+    "token": {
+        "user": {
+            "name": "admin",
+            "id": "admin",
+            "domain": {
+                "name": "System Domain",
+                "id": "system_domain"
+            }
+        },
+        "extras": {},
+        "domain": {
+            "name": "System Domain",
+            "id": "system_domain"
+        },
+        "issued_at": "2015-11-23T14:32:51.233435Z",
+        "expires_at": "2015-11-24T14:32:51.233391Z",
+        "is_tenant_admin": false,
+        "level": 0,
+        "roles": [
+            {
+                "name": "System Administrator",
+                "id": "system_administrator"
+            }
+        ],
+        "methods": [
+            "password"
+        ],
+        "is_system_admin": true
+    }
+}

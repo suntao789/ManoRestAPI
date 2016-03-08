@@ -1,0 +1,50 @@
+{
+            "state": "Active",
+            "affinity_group": "AGb585856241ea4a72a7b1875b7d339ba5-0",
+            "networks": [
+                {
+                    "network_id": "d74f1efacae7464cb6472780daaa95f1",
+                    "network_backendid": "https://189.58.20.23/api/admin/network/1a64fa33-c05f-4aaa-9f03-8cf400efcf8a",
+                    "mac_address": "70:54:76:0f:03:22",
+                    "vnic": 0
+                },
+                {
+                    "network_id": "4afe0f53e2684cfd827b6e105a8ff690",
+                    "network_backendid": "https://189.58.20.23/api/admin/network/3d46350f-51de-4267-b070-976b3fc4a152",
+                    "mac_address": "70:54:76:0f:03:23",
+                    "vnic": 1
+                },
+                {
+                    "network_id": "4afe0f53e2684cfd827b6e105a8ff690",
+                    "network_backendid": "https://189.58.20.23/api/admin/network/3d46350f-51de-4267-b070-976b3fc4a152",
+                    "mac_address": "70:54:76:0f:03:24",
+                    "vnic": 2
+                }
+            ],
+            "taskId": null,
+            "id": "2c2e088933ee462d8af3d615570a5e8a",
+            "vapp": "b585856241ea4a72a7b1875b7d339ba5",
+            "userdata": null,
+            "hostId": "189.58.20.247",
+            "usage": {
+                "disk_io": 0,
+                "network_io": 0,
+                "cpu": 4,
+                "disk": 15,
+                "memory": 2
+            },
+            "name": "OMU1",
+            "resource": {
+                "vcpu": 4,
+                "second_disk": 0,
+                "root_disk": 2,
+                "memory": 16384
+            },
+            "imageref": "637f8c6060ee4e83a305e2f41a46046b",
+            "create_at": "2016-02-03T20:31:41Z",
+            "vcpu_affinity": null,
+            "ha_group": "HGb585856241ea4a72a7b1875b7d339ba5-0",
+            "update_at": "2016-03-08T20:51:15Z",
+            "vsctemplateref": "c34dc219-c5cb-11e5-a50c-005056880271",
+            "backendid": "https://189.58.20.23/api/vApp/vm-41373b6c-8163-4076-a8a2-e62a7d4b55ae"
+        }
