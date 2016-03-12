@@ -1,0 +1,13 @@
+{
+"vms": [
+{
+"vnf_id": "0000000001",
+"id": "999131349132",
+"vm_name": "NLS_01_01",
+"vnics": [
+{"name": "Base", "mac": " 44-45-53-54-00-00" , "network": "Base", "provide_network": "localNetwork" },
+{"name": "Fabric", "mac": "44-45-53-55-00-00" , "network": "Fabirc", "provider_network": "localNetwork" },
+{"name": "External", "mac": "44-45-53-56-00-00", "network": "network_001", "provider_network": "network_to_enodeb" }
+]
+}]
+}
